@@ -1,0 +1,10 @@
+name: SlapPlugin
+version: 1.0 SNAPSHOT
+main: me.hassantahan.slapplugin.SlapPlugin
+api-version: 1.13
+authors: [MrMineHeads]
+description: Slaps someone
+commands:
+  slap:
+    description: Slap a dude.
+    usage: /<command>
